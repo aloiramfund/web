@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tu Nombre | Policy Analyst & Emprendedora</title>
+    <title>Mariola Valderraín Navarro</title>
     <style>
         /* Estilos generales */
         :root {
